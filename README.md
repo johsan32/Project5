@@ -1,9 +1,14 @@
 ### Project5
-# Natural Garden
+# Natural Garden html projesi
 
-###Flex yapısı kullanılarak oluşturuldu **Enter**
-####Responsive özellikleri eklendi **Enter** ayrıca basit JS kodları ile açılır menüler eklendi.
-**Enter**
-![print-secreen](http://url/to/secreen.png)
-**Enter**
-![print-secreen](http://url/to/project5.gif)
+### Flex yapısı kullanılarak oluşturuldu.
+
+### udemig ödev çalışmasıdır...
+
+#### Responsive özellikleri eklendi ayrıca basit JS kodları ile açılır menüler eklendi.
+
+![print-secreen](screen.png)
+
+
+![gif](project5.gif)
+
