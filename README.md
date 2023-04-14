@@ -1,5 +1,5 @@
 ### Project5
-# Natural Garden html projesi
+# "Natural Garden" html projesi.
 
 ### Flex yapısı kullanılarak oluşturuldu.
 
